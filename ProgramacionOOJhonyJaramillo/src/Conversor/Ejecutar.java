@@ -10,8 +10,8 @@ public class Ejecutar {
         System.out.println("1. De pulgada a centimetros: ");
         System.out.println("2. De metros a decimetro: ");
         System.out.println("3. De millas a kilometros: ");
-        System.out.println("1. De centimetros a milimetros: ");
-        System.out.println("2. De metros a yarda: ");
+        System.out.println("4. De centimetros a milimetros: ");
+        System.out.println("5. De metros a yarda: ");
         int opc = entrada.nextInt();
         switch (opc) {
             case 1:
